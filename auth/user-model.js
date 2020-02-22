@@ -34,5 +34,6 @@ function findBy(filter) {
 
   function remove(id){
     return db('users')
+    
     .del(id)
   }
