@@ -63,8 +63,7 @@ const Login = ( )=> {
     return (
       <>
 
-      <h1>Welcome to Foodie Fun</h1>
-      <form type = 'submit'>
+       <form type = 'submit'>
 
       <input
        type ='text'
