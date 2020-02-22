@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.title{
+  background-color: navy;
+  color:dodgerblue;
+  border:2px solid dodgerblue;
+}
+ form{
+  background-color: navy;
+  color:dodgerblue;
+  border:2px solid dodgerblue;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding:8px;
+
+}
+.reg-form input{
+  margin:6px;
+  width:50%;
+  align-items: center;
+ }
+
+ button{
+   background-color: dodgerblue;
+   color:white;
+   padding:6px;
+   border-radius: 10px;
+ }
+
+ .joke-div{
+
+
+  background-color: navy;
+  color:navajowhite;
+ }
